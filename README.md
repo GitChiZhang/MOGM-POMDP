@@ -3,5 +3,5 @@
 ### Paper:
 Coming soon.
 
-### Vedio:
+### Video:
 [Check out the video here!](https://youtu.be/_K3BKwbBm6M)
